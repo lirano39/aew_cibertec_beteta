@@ -32,4 +32,14 @@ p{
     text-align: center;
 }
 
+.foto-perfil img {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    width: 200px;
+    border-width: 8px;
+    border-style: solid;
+}
+
+
 /**{}
