@@ -1,1 +1,30 @@
-<
+  
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+hr{
+
+    color:rgb(0, 0, 0);
+    border-style:double;
+    border-color: brown;
+}
+
+ p {
+        color:rgb(0, 0, 0);
+        text-align:justify;
+
+}
+
+
+
+img {
+        text-align: center;
+        align-content: center;
+       
+}
+
+
+
+/**{}
